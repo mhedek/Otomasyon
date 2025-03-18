@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Firma Otomasyonu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE67008C-CD72-43EF-8CD7-06312263985E}|SQL_Db_Proje.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Firma Otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE67008C-CD72-43EF-8CD7-06312263985E}|SQL_Db_Proje.csproj|c:\\users\\hp\\onedrive\\desktop\\firma otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE67008C-CD72-43EF-8CD7-06312263985E}|SQL_Db_Proje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE67008C-CD72-43EF-8CD7-06312263985E}|SQL_Db_Proje.csproj|c:\\users\\hp\\onedrive\\desktop\\firma otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FE67008C-CD72-43EF-8CD7-06312263985E}|SQL_Db_Proje.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\Firma Otomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE67008C-CD72-43EF-8CD7-06312263985E}|SQL_Db_Proje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Firma Otomasyonu\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAD4v1EAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T12:49:19.982Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Firma Otomasyonu\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:00:07.972Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-05T10:00:07.972Z"
             }
           ]
         }
