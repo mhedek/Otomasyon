@@ -1,0 +1,27 @@
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\bin\Debug\SQL_Db_Proje.exe.config
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\bin\Debug\SQL_Db_Proje.exe
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\bin\Debug\SQL_Db_Proje.pdb
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.csproj.AssemblyReference.cache
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.Form1.resources
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.FrmKategoriler.resources
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.Properties.Resources.resources
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.csproj.GenerateResource.cache
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.csproj.CoreCompileInputs.cache
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.exe
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.pdb
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.FrmMusteri.resources
+D:\Projeler\Sorgularla Adım Adım Sql Veritabanı Programlama\SQL_Db_Proje\obj\Debug\SQL_Db_Proje.Kasa.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\bin\Debug\SQL_Db_Proje.exe.config
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\bin\Debug\SQL_Db_Proje.exe
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\bin\Debug\SQL_Db_Proje.pdb
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.Form1.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.FrmKategoriler.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.FrmMusteri.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.Istatistik.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.Kasa.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.exe
+C:\Users\HP\OneDrive\Desktop\Firma Otomasyonu\obj\Debug\SQL_Db_Proje.pdb
